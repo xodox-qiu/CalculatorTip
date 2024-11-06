@@ -1,1 +1,1 @@
-##Calculator Tip App
+Calculator Tip App
